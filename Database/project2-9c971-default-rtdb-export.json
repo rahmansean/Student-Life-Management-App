@@ -1,0 +1,939 @@
+{
+  "CSE": {
+    "1_1": [
+      null,
+      {
+        "Credit": 3,
+        "Subject": "HUM1107"
+      },
+      {
+        "Credit": 1.5,
+        "Subject": "HUM1107"
+      },
+      {
+        "Credit": 3,
+        "Subject": "MATH1115"
+      },
+      {
+        "Credit": 3,
+        "Subject": "PHY1115"
+      },
+      {
+        "Credit": 0.75,
+        "Subject": "PHY1116"
+      },
+      {
+        "Credit": 3,
+        "Subject": "CHEM1115"
+      },
+      {
+        "Credit": 3,
+        "Subject": "CSE1101"
+      },
+      {
+        "Credit": 1.5,
+        "Subject": "CSE1102"
+      },
+      {
+        "Credit": 1.5,
+        "Subject": "CSE1108"
+      }
+    ],
+    "1_2": [
+      null,
+      {
+        "Credit": 3,
+        "Subject": "MATH1219"
+      },
+      {
+        "Credit": 3,
+        "Subject": "ME1211"
+      },
+      {
+        "Credit": 0.75,
+        "Subject": "ME1214"
+      },
+      {
+        "Credit": 3,
+        "Subject": "EEE1241"
+      },
+      {
+        "Credit": 1.5,
+        "Subject": "EEE1242"
+      },
+      {
+        "Credit": 1.5,
+        "Subject": "CSE1200"
+      },
+      {
+        "Credit": 3,
+        "Subject": "CSE1203"
+      },
+      {
+        "Credit": 3,
+        "Subject": "CSE1205"
+      },
+      {
+        "Credit": 1.5,
+        "Subject": "CSE1206"
+      }
+    ],
+    "2_1": [
+      null,
+      {
+        "Credit": 3,
+        "Subject": "HUM2109"
+      },
+      {
+        "Credit": 3,
+        "Subject": "MATH2101"
+      },
+      {
+        "Credit": 3,
+        "Subject": "EEE2141"
+      },
+      {
+        "Credit": 1.5,
+        "Subject": "EEE2142"
+      },
+      {
+        "Credit": 0.75,
+        "Subject": "CSE2100"
+      },
+      {
+        "Credit": 3,
+        "Subject": "CSE2103"
+      },
+      {
+        "Credit": 1.5,
+        "Subject": "CSE2104"
+      },
+      {
+        "Credit": 3,
+        "Subject": "CSE2105"
+      },
+      {
+        "Credit": 1.5,
+        "Subject": "CSE2106"
+      }
+    ],
+    "2_2": [
+      null,
+      {
+        "Credit": 3,
+        "Subject": "MATH2203"
+      },
+      {
+        "Credit": 0.75,
+        "Subject": "CSE2200"
+      },
+      {
+        "Credit": 3,
+        "Subject": "CSE2201"
+      },
+      {
+        "Credit": 0.75,
+        "Subject": "CSE2202"
+      },
+      {
+        "Credit": 3,
+        "subject": "CSE2207"
+      },
+      {
+        "Credit": 1.5,
+        "Subject": "CSE2208"
+      },
+      {
+        "Credit": 3,
+        "Subject": "CSE2211"
+      },
+      {
+        "Credit": 3,
+        "Subject": "CSE2213"
+      },
+      {
+        "Credit": 1.5,
+        "Subject": "CSE2214"
+      }
+    ]
+  },
+  "Result": {
+    "190104103": {
+      "1_1": {
+        "id": "190104103",
+        "result": "2.92",
+        "semester": "1_1"
+      },
+      "1_2": {
+        "id": "190104103",
+        "result": "0.59",
+        "semester": "1_2"
+      },
+      "2_1": {
+        "id": "190104103",
+        "result": "2.86",
+        "semester": "2_1"
+      },
+      "2_2": {
+        "id": "190104103",
+        "result": "3.13",
+        "semester": "2_2"
+      }
+    }
+  },
+  "Routine": {
+    "11": {
+      "A": [
+        null,
+        {
+          "textDay": "Monday",
+          "textSubject": "MACS",
+          "textTeacher": "TBA",
+          "textTime": "1:00pm-1:50pm"
+        }
+      ],
+      "B": {
+        "textDay": "Thursday",
+        "textSubject": "MICRO",
+        "textTeacher": "TBA",
+        "textTime": "1:00pm-1:50pm"
+      }
+    },
+    "22": {
+      "A": [
+        null,
+        {
+          "textDay": "Sunday",
+          "textSubject": "MACS",
+          "textTeacher": "Mr.GM Shahriar,Mr.HM Zabir Haque",
+          "textTime": "9:30am-12:30pm"
+        },
+        {
+          "textDay": "Monday",
+          "textSubject": "MICRO",
+          "textTeacher": "Ms.Tahsin Aziz,Mr.Sajib Kumar Saha Joy",
+          "textTime": "1:00pm-3:30pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "HUM",
+          "textTeacher": "Ms.Raqeebir Rab",
+          "textTime": "9:30am-12:30pm"
+        },
+        {
+          "textDay": "Tuesday",
+          "textSubject": "DATABASE",
+          "textTeacher": "Mr.Kazi Ekramul Hoque",
+          "textTime": "9:30am-12:30pm"
+        },
+        {
+          "textDay": "Sunday",
+          "textSubject": "DSD",
+          "textTeacher": "Ms.Tanzila Broti",
+          "textTime": "3:30am-12:30pm"
+        },
+        {
+          "textDay": "Monday",
+          "textSubject": "CSE2207",
+          "textTeacher": "Mr.Md.Khairul Hasan",
+          "textTime": "8:50pm-9:40pm"
+        },
+        {
+          "textDay": "Monday",
+          "textSubject": "CSE2213",
+          "textTeacher": "Ms.Syeda Shabnam Hasan",
+          "textTime": "9:40am-10:30am"
+        },
+        {
+          "textDay": "Monday",
+          "textSubject": "CSE2201",
+          "textTeacher": "Ms.Raqeebir Rab",
+          "textTime": "10:30am-11:20pm"
+        },
+        {
+          "textDay": "Tuesday",
+          "textSubject": "CSE2200(A1/A2)",
+          "textTeacher": "Mr.Md.Aminur Rahman,Mr.Mohammad Tanzilur Rahman",
+          "textTime": "8:00am-10:30am"
+        },
+        {
+          "textDay": "Tuesday",
+          "textSubject": "CSE2213",
+          "textTeacher": "Ms.Syeda Shabnam Hasan",
+          "textTime": "10:30am-11:20am"
+        },
+        {
+          "textDay": "Tuesday",
+          "textSubject": "CSE2207",
+          "textTeacher": "Mr.Md.Khairul Hasan",
+          "textTime": "11:20am-12:10pm"
+        },
+        {
+          "textDay": "Tuesday",
+          "textSubject": "MATH2203",
+          "textTeacher": "Mr.Kazi Ekramul Hoque",
+          "textTime": "12:10pm-1:00pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "CSE2208(A2)",
+          "textTeacher": "Mr.Md.Khairul Hasan",
+          "textTime": "12:10pm-1:00pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "CSE2214(A2)",
+          "textTeacher": "Ms.Tahsin Aziz,Mr.Sajib Kumar Saha Joy",
+          "textTime": "12:10pm-1:00pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "CSE2213",
+          "textTeacher": "Ms.Syeda Shabnam Hasan",
+          "textTime": "1:00pm-1:50pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "CSE2209",
+          "textTeacher": "Ms.Tanzila Broti",
+          "textTime": "1:50pm-2:40pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "MATH2203",
+          "textTeacher": "Mr.Kazi Ekramul Hoque",
+          "textTime": "2:40pm-3:30pm"
+        },
+        {
+          "textDay": "Thursday",
+          "textSubject": "CSE2209",
+          "textTeacher": "Ms.Tanzila Broti",
+          "textTime": "8:50am-9:40am"
+        },
+        {
+          "textDay": "Thursday",
+          "textSubject": "CSE2207",
+          "textTeacher": "Mr.Md.Khairul Hasan",
+          "textTime": "9:40am-10:30am"
+        },
+        {
+          "textDay": "Thursday",
+          "textSubject": "CSE2210(A1/A2)",
+          "textTeacher": "Ms.Tanzila Broti",
+          "textTime": "10:30am-1:00pm"
+        },
+        {
+          "textDay": "Thursday",
+          "textSubject": "CSE2202(A1/A2)",
+          "textTeacher": "Ms.Raqeebir Rab,Dr.Mohammad Shafiul Alam",
+          "textTime": "10:00am-1:00pm"
+        },
+        {
+          "textDay": "Thursday",
+          "textSubject": "CSE2201",
+          "textTeacher": "Ms.Raqeebir Rab",
+          "textTime": "1:00pm-1:50pm"
+        }
+      ],
+      "B": [
+        null,
+        {
+          "textDay": "Sunday",
+          "textSubject": "CSE2200(B1/B2)",
+          "textTeacher": "Mr.Md.Aminur Rahman,Mr.AKM Amanat Ullah",
+          "textTime": "1:00pm-3:30pm"
+        },
+        {
+          "textDay": "Sunday",
+          "textSubject": "CSE2207",
+          "textTeacher": "Mr.Md.Khairul Hasan",
+          "textTime": "3:30pm-4:20pm"
+        },
+        {
+          "textDay": "Sunday",
+          "textSubject": "CSE2209",
+          "textTeacher": "Ms.Tanzila Broti",
+          "textTime": "4:20pm_5:10pm"
+        },
+        {
+          "textDay": "Sunday",
+          "textSubject": "MATH2203",
+          "textTeacher": "Mr.Kazi Ekramul Hoque",
+          "textTime": "5:10pm-6:00pm"
+        },
+        {
+          "textDay": "Monday",
+          "textSubject": "CSE2213",
+          "textTeacher": "Ms.Syeda Shabnam Hasan",
+          "textTime": "8:00am-8:50am"
+        },
+        {
+          "textDay": "Monday",
+          "textSubject": "CSE2201",
+          "textTeacher": "Ms.Raqeebir Rab",
+          "textTime": "8:50am-9:40am"
+        },
+        {
+          "textDay": "Monday",
+          "textSubject": "CSE2207",
+          "textTeacher": "Mr.Md.Khairul Hasan",
+          "textTime": "9:40am-10:30am"
+        },
+        {
+          "textDay": "Monday",
+          "textSubject": "CSE2208(B2)",
+          "textTeacher": "Mr.HM Zabir Haque",
+          "textTime": "10:30am-1:00pm"
+        },
+        {
+          "textDay": "Tuesday",
+          "textSubject": "CSE2201",
+          "textTeacher": "Ms.Raqeebir Rab",
+          "textTime": "10:30am-11:20am"
+        },
+        {
+          "textDay": "Tuesday",
+          "textSubject": "CSE2213",
+          "textTeacher": "Ms.Syeda Shabnam Hasan",
+          "textTime": "11:20am-12:10pm"
+        },
+        {
+          "textDay": "Tuesday",
+          "textSubject": "CSE2207",
+          "textTeacher": "Mr.Md.Khairul Hasan",
+          "textTime": "12:10pm-1:00pm"
+        },
+        {
+          "textDay": "Tuesday",
+          "textSubject": "CSE2208(B1)",
+          "textTeacher": "Mr.GM Shahriar,Mr.HM Zabir Haque",
+          "textTime": "1:00pm-3:30pm"
+        },
+        {
+          "textDay": "Tuesday",
+          "textSubject": "CSE2214(B2)",
+          "textTeacher": "Ms.Tahsin Aziz,Mr.Sajib Kumar Saha Joy",
+          "textTime": "1:00pm-3:30pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "CSE2210(B1/B2)",
+          "textTeacher": "Ms.Tanzila Broti",
+          "textTime": "10:30am-1:00pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "CSE2202(B1/B2)",
+          "textTeacher": "Ms.Raqeebir Rab,Dr.Mohammad Shafiul Alam",
+          "textTime": "10:30am-1:00pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "CSE2213",
+          "textTeacher": "Ms.Syeda Shabnam Hasan",
+          "textTime": "3:30pm-4:20pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "CSE2209",
+          "textTeacher": "Ms.Tanzila Broti",
+          "textTime": "4:20pm-5:10pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "MATH2203",
+          "textTeacher": "Mr.Kazi Ekramul Hoque",
+          "textTime": "5:10pm-6:00pm"
+        },
+        {
+          "textDay": "Thursday",
+          "textSubject": "CSE2209",
+          "textTeacher": "Ms.Tanzila Broti",
+          "textTime": "8:00am-8:50am"
+        },
+        {
+          "textDay": "Thursday",
+          "textSubject": "CSE2201",
+          "textTeacher": "Ms.Raqeebir Rab",
+          "textTime": "8:50am-9:40am"
+        },
+        {
+          "textDay": "Thursday",
+          "textSubject": "MATH2203",
+          "textTeacher": "Kazi Ekramul Hoque",
+          "textTime": "9:10am-10:30am"
+        },
+        {
+          "textDay": "Thursday",
+          "textSubject": "CSE2214(B1)",
+          "textTeacher": "Ms.Tahsin Aziz,Mr.Sajib Kumar Saha Joy",
+          "textTime": "10:30am-1:00pm"
+        }
+      ],
+      "C": [
+        null,
+        {
+          "textDay": "Sunday",
+          "textSubject": "CSE2209",
+          "textTeacher": "Ms.Tanzila Broti",
+          "textTime": "1:00pm-1:50pm"
+        },
+        {
+          "textDay": "Sunday",
+          "textSubject": "CSE2207",
+          "textTeacher": "Mr.Md.Khairul Hasan",
+          "textTime": "1:50pm-2:40pm"
+        },
+        {
+          "textDay": "Sunday",
+          "textSubject": "CSE2201",
+          "textTeacher": "Ms.Raqeebir Rab",
+          "textTime": "2:40pm-3:30pm"
+        },
+        {
+          "textDay": "Sunday",
+          "textSubject": "CSE2208(C1)",
+          "textTeacher": "Mr.GM Shahriar,Mr.HM Zabir Haque",
+          "textTime": "3:30pm-6:00pm"
+        },
+        {
+          "textDay": "Sunday",
+          "textSubject": "CSE2214(C2)",
+          "textTeacher": "Ms.Tahsin Aziz,Mr.Sajib Kumar Saha Joy",
+          "textTime": "3:30pm-6:00pm"
+        },
+        {
+          "textDay": "Monday",
+          "textSubject": "CSE2210(C1/C2)",
+          "textTeacher": "Ms.Tanzila Broti,Mr.Muhammed Yaseen",
+          "textTime": "8:00am-10:30am"
+        },
+        {
+          "textDay": "Monday",
+          "textSubject": "CSE2213",
+          "textTeacher": "Ms.Syeda Shabnam Hasan",
+          "textTime": "10:30am-11:20am"
+        },
+        {
+          "textDay": "Monday",
+          "textSubject": "CSE2201",
+          "textTeacher": "Ms.Raqeebir Rab",
+          "textTime": "11:20am-12:10pm"
+        },
+        {
+          "textDay": "Monday",
+          "textSubject": "CSE2202(C1/C2)",
+          "textTeacher": "Ms.Raqeebir Rab,Mr.Muhammed Yaseen",
+          "textTime": "1:00pm-3:30pm"
+        },
+        {
+          "textDay": "Tuesday",
+          "textSubject": "CSE2213",
+          "textTeacher": "Ms.Syeda Shabnam Hasan",
+          "textTime": "12:10pm-1:00pm"
+        },
+        {
+          "textDay": "Tuesday",
+          "textSubject": "CSE2201",
+          "textTeacher": "Ms.Raqeebir Rab",
+          "textTime": "1:00pm-1:50pm"
+        },
+        {
+          "textDay": "Tuesday",
+          "textSubject": "CSE2207",
+          "textTeacher": "Mr.Md.Khairul Hasan",
+          "textTime": "1:50pm-2:40pm"
+        },
+        {
+          "textDay": "Tuesday",
+          "textSubject": "CSE2214(C1)",
+          "textTeacher": "Ms.Tahsin Aziz,Mr.Sajib Kumar Saha Joy",
+          "textTime": "3:30pm-6:00pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "CSE2213",
+          "textTeacher": "Ms.Syeda Shabnam Hasan",
+          "textTime": "12:10pm-1:00pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "CSE2200(C1/C2)",
+          "textTeacher": "Mr.Md.Aminur Rahman,Mr.Mohammad Tanzilur Rahman",
+          "textTime": "1:00pm-3:30pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "CSE2209",
+          "textTeacher": "Ms.Tanzila Broti",
+          "textTime": "3:30pm-4:20pm"
+        },
+        {
+          "textDay": "Wednesday",
+          "textSubject": "MATH2203",
+          "textTeacher": "Mr.Kazi Ekramul Hoque",
+          "textTime": "4:20pm-5:10pm"
+        },
+        {
+          "textDay": "Thursday",
+          "textSubject": "CSE2207",
+          "textTeacher": "Mr.Md.Khairul Hasan",
+          "textTime": "8:50am-9:40am"
+        },
+        {
+          "textDay": "Thursday",
+          "textSubject": "CSE2209",
+          "textTeacher": "Ms.Tanzila Broti",
+          "textTime": "9:40am-10:30am"
+        },
+        {
+          "textDay": "Thursday",
+          "textSubject": "CSE2208(C2)",
+          "textTeacher": "Mr.GM Shahriar,Mr.Md.Khairul Hasan",
+          "textTime": "10:30am-1:00pm"
+        },
+        {
+          "textDay": "Thursday",
+          "textSubject": "MATH2203",
+          "textTeacher": "Mr.Kazi Ekramul Hoque",
+          "textTime": "1:00pm-2:40pm"
+        }
+      ]
+    },
+    "32": {
+      "C": [
+        null,
+        {
+          "texTime": "",
+          "textDay": "Sunday",
+          "textSubject": "",
+          "textTeacher": ""
+        }
+      ]
+    }
+  },
+  "Task": {
+    "190104103": {
+      "HW": {
+        "date": "22/2/2023",
+        "details": "C",
+        "id": "190104103",
+        "subject": "math",
+        "time": "01:00",
+        "title": "HW"
+      }
+    }
+  },
+  "Teacher": {
+    "s2_1": {
+      "A": [
+        null,
+        {
+          "temail": "emamhossain.cse@aust.edu",
+          "tname": "Mr. Emam Hossain",
+          "tphone": "01717584978"
+        },
+        {
+          "temail": "eity.cse@aust.edu",
+          "tname": "Ms. Qamrun Nahar Eity",
+          "tphone": "01680033969"
+        },
+        {
+          "temail": "abid.eee@aust.edu",
+          "tname": "Mr. Abidur Rahman",
+          "tphone": "01922171000"
+        },
+        {
+          "temail": "msr.math@gmail.com",
+          "tname": "Dr. Md. Mustafizur Rahman",
+          "tphone": "01552556549"
+        },
+        {
+          "temail": "shamima.as@aust.edu",
+          "tname": "Ms. Mosammat Shamima Nasrain",
+          "tphone": "01716779575"
+        },
+        {
+          "temail": "lubaba.eee@aust.edu",
+          "tname": "Ms. Khandaker Lubaba Bashar",
+          "tphone": "01777012143"
+        },
+        {
+          "temail": "fabliha.eee@aust.edu",
+          "tname": "Ms. Fabliha Ahmed",
+          "tphone": "01718039191"
+        }
+      ],
+      "B": [
+        null,
+        {
+          "temail": "emamhossain.cse@aust.edu",
+          "tname": "Mr. Emam Hossain",
+          "tphone": "01717584978"
+        },
+        {
+          "temail": "eity.cse@aust.edu",
+          "tname": "Ms. Qamrun Nahar Eity",
+          "tphone": "01680033969"
+        },
+        {
+          "temail": "abid.eee@aust.edu",
+          "tname": "Mr. Abidur Rahman",
+          "tphone": "01922171000"
+        },
+        {
+          "temail": "msr.math@gmail.com",
+          "tname": "Dr. Md. Mustafizur Rahman",
+          "tphone": "01552556549"
+        },
+        {
+          "temail": "shamima.as@aust.edu",
+          "tname": "Ms. Mosammat Shamima Nasrain",
+          "tphone": "01716779575"
+        },
+        {
+          "temail": "silvia.eee@aust.edu",
+          "tname": "Ms. Silvia Tasnim",
+          "tphone": "01675925859"
+        }
+      ],
+      "C": [
+        null,
+        {
+          "temail": "emamhossain.cse@aust.edu",
+          "tname": "Mr. Emam Hossain",
+          "tphone": "01717584978"
+        },
+        {
+          "temail": "eity.cse@aust.edu",
+          "tname": "Ms. Qamrun Nahar Eity",
+          "tphone": "01680033969"
+        },
+        {
+          "temail": "abid.eee@aust.edu",
+          "tname": "Mr. Abidur Rahman",
+          "tphone": "01922171000"
+        },
+        {
+          "temail": "msr.math@gmail.com",
+          "tname": "Dr. Md. Mustafizur Rahman",
+          "tphone": "01552556549"
+        },
+        {
+          "temail": "shamima.as@aust.edu",
+          "tname": "Ms. Mosammat Shamima Nasrain",
+          "tphone": "01716779575"
+        }
+      ]
+    },
+    "s2_2": {
+      "A": [
+        null,
+        {
+          "temail": "raqeebir.cse@aust.edu",
+          "tname": "Ms.Raqeebir Rab",
+          "tphone": "01779001291"
+        },
+        {
+          "temail": "khairul271276@aust.edu",
+          "tname": "Mr.Md.Khairul Hasan",
+          "tphone": "01711109629"
+        },
+        {
+          "temail": "broti.cse@aust.edu",
+          "tname": "Ms.Tanjila Broti",
+          "tphone": "01747053002"
+        },
+        {
+          "temail": "shabnam.cse@aust.edu",
+          "tname": "Ms.Syeda Shabnam Hasan",
+          "tphone": "01914130189"
+        },
+        {
+          "temail": "ekram_math.as@aust.edu",
+          "tname": "Mr.Kazi Ekramul Hoque",
+          "tphone": "01851680735"
+        },
+        {
+          "temail": "aminur.cse@aust.edu",
+          "tname": "Mr.Md.Aminur Rahman",
+          "tphone": "01681646953"
+        },
+        {
+          "temail": "tanzil.cse.aust@gmail.com",
+          "tname": "Mr.Mohammad Tanzilur Rahman",
+          "tphone": "0198199531"
+        },
+        {
+          "temail": "joy.cse@aust.edu",
+          "tname": "Sajib Kumar Saha Joy",
+          "tphone": "01740413252"
+        },
+        {
+          "temail": "01712019558",
+          "tname": "Ms.Tahsin Aziz ",
+          "tphone": "01712019558"
+        },
+        {
+          "temail": " yaseenadib.ctg@gmail.com",
+          "tname": "Mr.Muhammed Yaseen",
+          "tphone": "01821965051"
+        },
+        {
+          "temail": "zabir.haque.cse@aust.edu",
+          "tname": "Mr.HM Zabir Haque",
+          "tphone": "01911289247"
+        },
+        {
+          "temail": "shahariar_shibli.cse@aust.edu",
+          "tname": "Mr.G.M.Shahariar ",
+          "tphone": "01687842121 "
+        }
+      ],
+      "B": [
+        null,
+        {
+          "temail": "raqeebir.cse@aust.edu",
+          "tname": "Ms.Raqeebir Rab",
+          "tphone": "01779001291"
+        },
+        {
+          "temail": "khairul271276@aust.edu",
+          "tname": "Mr.Md.Khairul Hasan",
+          "tphone": "01711109629"
+        },
+        {
+          "temail": "broti.cse@aust.edu",
+          "tname": "Ms.Tanjila Broti",
+          "tphone": "01747053002"
+        },
+        {
+          "temail": "shabnam.cse@aust.edu",
+          "tname": "Ms.Syeda Shabnam Hasan",
+          "tphone": "01914130189"
+        },
+        {
+          "temail": "ekram_math.as@aust.edu",
+          "tname": "Mr.Kazi Ekramul Hoque",
+          "tphone": "01851680735"
+        },
+        {
+          "temail": "aminur.cse@aust.edu",
+          "tname": "Mr.Md.Aminur Rahman",
+          "tphone": "01681646953"
+        },
+        {
+          "temail": "tanzil.cse.aust@gmail.com",
+          "tname": "Mr.Mohammad Tanzilur Rahman",
+          "tphone": "0198199531"
+        },
+        {
+          "temail": "joy.cse@aust.edu",
+          "tname": "Sajib Kumar Saha Joy",
+          "tphone": "01740413252"
+        },
+        {
+          "temail": "01712019558",
+          "tname": "Ms.Tahsin Aziz ",
+          "tphone": "01712019558"
+        },
+        {
+          "temail": " yaseenadib.ctg@gmail.com",
+          "tname": "Mr.Muhammed Yaseen",
+          "tphone": "01821965051"
+        },
+        {
+          "temail": "zabir.haque.cse@aust.edu",
+          "tname": "Mr.HM Zabir Haque",
+          "tphone": "01911289247"
+        },
+        {
+          "temail": "shahariar_shibli.cse@aust.edu",
+          "tname": "Mr.G.M.Shahariar ",
+          "tphone": "01687842121 "
+        }
+      ],
+      "C": [
+        null,
+        {
+          "temail": "raqeebir.cse@aust.edu",
+          "tname": "Ms.Raqeebir Rab",
+          "tphone": "01779001291"
+        },
+        {
+          "temail": "khairul271276@aust.edu",
+          "tname": "Mr.Md.Khairul Hasan",
+          "tphone": "01711109629"
+        },
+        {
+          "temail": "broti.cse@aust.edu",
+          "tname": "Ms.Tanjila Broti",
+          "tphone": "01747053002"
+        },
+        {
+          "temail": "shabnam.cse@aust.edu",
+          "tname": "Ms.Syeda Shabnam Hasan",
+          "tphone": "01914130189"
+        },
+        {
+          "temail": "ekram_math.as@aust.edu",
+          "tname": "Mr.Kazi Ekramul Hoque",
+          "tphone": "01851680735"
+        },
+        {
+          "temail": "aminur.cse@aust.edu",
+          "tname": "Mr.Md.Aminur Rahman",
+          "tphone": "01681646953"
+        },
+        {
+          "temail": "tanzil.cse.aust@gmail.com",
+          "tname": "Mr.Mohammad Tanzilur Rahman",
+          "tphone": "0198199531"
+        },
+        {
+          "temail": "joy.cse@aust.edu",
+          "tname": "Mr.Sajib Kumar Saha Joy",
+          "tphone": "01740413252"
+        },
+        {
+          "temail": "01712019558",
+          "tname": "Ms.Tahsin Aziz ",
+          "tphone": "01712019558"
+        },
+        {
+          "temail": " yaseenadib.ctg@gmail.com",
+          "tname": "Mr.Muhammed Yaseen",
+          "tphone": "01821965051"
+        },
+        {
+          "temail": "zabir.haque.cse@aust.edu",
+          "tname": "Mr.HM Zabir Haque",
+          "tphone": "01911289247"
+        },
+        {
+          "temail": "shahariar_shibli.cse@aust.edu",
+          "tname": "Mr.G.M.Shahariar ",
+          "tphone": "01687842121 "
+        }
+      ]
+    }
+  },
+  "Users": {
+    "190104103": {
+      "Depertment": "CSE",
+      "Email": "190104103@aust.edu",
+      "ID": "190104103",
+      "Name": "Sean",
+      "Section": "C",
+      "Semester": "2.2"
+    },
+    "190104109": {
+      "Depertment": "CSE",
+      "Email": "190104109@aust.edu",
+      "ID": "190104109",
+      "Name": "Safiya",
+      "Section": "C",
+      "Semester": "2.2"
+    }
+  }
+}
